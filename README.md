@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+### My name is Franco Frechero and I am an Electrical and Computer Engineer. I have previous experience working with Data Science and Software Development. I am creative and enjoy researching new technologies.
+
+📫 Feel free to reach out, my email is francofrechero01@gmail.com
 
 <!--
 **francofreche/francofreche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
